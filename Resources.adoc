@@ -1,0 +1,36 @@
+= Resources
+:toc:
+:toclevels: 5
+
+== Frontend
+
+=== JS
+
+- O'Really recommendation - https://javascript.info/
+- Krisitan's recommendation - https://kursjs.pl/
+
+== DevOps
+
+=== Cloud
+
+- Dobre kursy Cloudowe - 35$/msc - https://www.pluralsight.com/cloud-guru
+
+==== Google Cloud
+
+- https://www.cloudskillsboost.google/paths/14[Network Engineer Learning Path]
+- https://www.cloudskillsboost.google/paths/19[Cloud Developer Learning Path]
+- https://www.cloudskillsboost.google/paths/12[Cloud Architect Learning Path]
+- https://www.cloudskillsboost.google/paths/11[Cloud Engineer Learning Path]
+
+=== Docker
+
+- https://www.youtube.com/watch?v=zJ6WbK9zFpI[Docker for Beginners: Full Free Course! (2019) 2:09:27]
+- https://www.katacoda.com/[Over 250 interactive scenarios helping you solve real problems and learn new skills.]
+- https://docs.docker.com/[Docker Docs]
+- https://training.play-with-docker.com/[Play with Docker Classroom]
+
+== DB
+
+=== MongoDB
+
+- https://learn.mongodb.com/learning-paths/mongodb-for-sql-professionals[MongoDB for SQL Professionals | MongoDB University]
