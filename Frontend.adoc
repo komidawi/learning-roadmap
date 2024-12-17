@@ -1,0 +1,61 @@
+= Frontend
+
+== Frontend (general)
+
+Beginners guide to learn:
+
+. https://internetingishard.com/[Interneting is Hard]
+. http://learnlayout.com/[Learn Layout]
+. https://learn.shayhowe.com/html-css/[Learn HTML & CSS]
+. https://www.htmldog.com/guides/css/advanced/[Advanced CSS]
+. https://www.edx.org/course/advanced-css-concepts-3[Advanced CSS Concepts]
+
+Also worth mentioning: https://nodeschool.io/[Node School]
+
+== Angular
+
+=== Angular Resources
+
+==== Documentation and Guides
+
+* https://angular.io/guide/testing[Angular - Testing]
+* https://angular.io/guide/testing-services[Angular - Testing Services]
+* https://angular.io/guide/testing-components-basics[Angular - Basics of Testing Components]
+* https://angular.io/guide/testing-components-scenarios[Angular - Component Testing Scenarios]
+* https://angular.io/guide/testing-attribute-directives[Angular - Testing Attribute Directives]
+* https://angular.io/guide/testing-pipes[Angular - Testing Pipes]
+* https://angular.io/guide/test-debugging[Angular - Debugging Tests]
+* https://angular.io/guide/testing-utility-apis[Angular - Testing Utility APIs]
+* https://angular.io/guide/http-test-requests[Angular - HTTP Client - Test Requests]
+
+==== Getting Started and Core Concepts
+
+* https://angular.dev/tutorials[Angular Tutorials]
+* https://angular.io/guide/architecture[Introduction to Angular Concepts]
+* https://angular.io/cli[CLI Overview and Command Reference]
+* https://angular.io/guide/file-structure[Workspace and Project File Structure]
+* https://angular.io/guide/architecture-components#template-syntax[Introduction to Components and Templates]
+* https://angular.io/guide/component-interaction[Component Interaction]
+* https://angular.io/start/start-routing[Adding Navigation]
+* https://angular.io/guide/template-syntax[Template Syntax]
+* https://angular.io/guide/standalone-components[Getting Started with Standalone Components]
+
+==== Advanced Topics
+
+* https://angular.io/guide/pipes-overview[Understanding Pipes]
+* https://angular.io/guide/class-binding[Class and Style Binding]
+* https://angular.io/guide/inputs-outputs[Sharing Data Between Child and Parent Directives and Components]
+* https://angular.io/guide/property-binding[Property Binding]
+* https://angular.io/guide/dependency-injection[Understanding Dependency Injection]
+* https://angular.io/guide/providers[Providing Dependencies in Modules]
+* https://angular.io/guide/lifecycle-hooks[Component Lifecycle]
+
+==== Related Technologies
+
+* https://rxjs.dev/[RxJS]
+
+=== Tools and Package Managers
+
+* npm
+* npx
+* nvm
