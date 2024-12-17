@@ -1,0 +1,40 @@
+= Engineering
+
+== High
+
+- https://abseil.io/resources/swe-book[abseil / Software Engineering at Google]
+** PW strongly recommends
+- https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038252/[O'Reilly's Designing Event-Driven Systems]
+- The Software Engineer's Guidebook
+- Accelerate
+- Team Topologies
+** WP: _These two books are, in my opinion, the two most useful books on software development written in the last ten years, and I consider them essential reading whether you are into microservices or not._
+- The Software Architect Elevator
+- Building Evolutionary Architectures
+
+== Medium
+
+- Fowler - Patterns of Enterprise Application Architecture
+- Desgining Data Intenstive Applicatons
+- Pragmatic Programmer
+- Release It!
+- “The Pragmatic Programmer: journey to mastery, 20th Anniversary Edition” by David Thomas, Andrew Hunt
+- “Refactoring” Fowler
+- “Working with legacy code” Feathers
+- https://leanpub.com/software-architecture-for-developers[Software Architecture for… by Simon Brown [PDF/iPad/Kindle\]]
+- Enterprise Integration Patterns by Gregor Hohpe and Bobby Woolf (O'Reilly's recommendation)
+- REST in Practice by Jim Webber, Savas Parastatidis, Ian Robinson (O'Reilly's recommendation)
+- Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems
+
+== Low
+
+- https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692[Deep Work: Rules for Focused Success in a Distracted World: Newport, Cal: 9781455586691: Amazon.com: Books]
+- Thinking Fast and Slow
+- Crucial Conversations: Tools for Talking When Stakes are High, Third Edition Kerry Patterson
+- NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence
+- Documenting Software Architectures
+- Living Documentation
+- The Mythical Man-Month: Essays on Software Engineering
+- Modeling Long-Running Activities as Nested Sagas
+- Praktyczny Programista
+- Mistrz Czystego Kodu
