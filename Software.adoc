@@ -1,0 +1,45 @@
+= Software
+:sectnums:
+
+== Technologies
+
+- Neo4j
+- https://docs.pact.io/[Introduction | Pact Docs]
+- Arch Unit
+- CodeScene
+- Buddy (The DevOps Automation Platform)
+** Podcast devstyle -> tam masz miesiąc triala
+- https://zookeeper.apache.org/[Apache ZooKeeper]
+- Linkerd Service Mesh
+- Istio (Service Mesh?)
+- Terraform
+- https://www.nomadproject.io/[Nomad by HashiCorp]
+- https://knative.dev/docs/[Home - Knative]
+- https://www.openfaas.com/[Home | OpenFaaS - Serverless Functions Made Simple]
+- https://launchdarkly.com/[LaunchDarkly: Feature Flag & Toggle Management]
+- https://spinnaker.io/[Spinnaker]
+- https://www.vaultproject.io/[Vault by HashiCorp]
+- https://chaostoolkit.org/[Chaos Toolkit - The chaos engineering toolkit for developers]
+- OpenFaaS
+- ObservableHQ
+- https://backstage.io/[Backstage Software Catalog and Developer Platform]
+
+== Tools
+
+- grep
+- sed
+- regexp
+- Miro
+- JVM Heap Dump
+- VisualVM
+
+== Plugins etc.
+
+- https://github.com/platan/tests-execution-chart[GitHub - platan/tests-execution-chart: Gradle plugin that visualises tests execution schedule]
+- https://www.npmjs.com/package/json-schema-diff-validator[json-schema-diff-validator - npm]
+- openapi-diff
+- https://github.com/sweepai/sweep[GitHub - sweepai/sweep: Sweep: AI-powered Junior Developer for small features and bug fixes.]
+- https://tldr.sh/[tldr pages]
+- https://github.com/resilience4j/resilience4j[GitHub - resilience4j/resilience4j: Resilience4j is a fault tolerance library designed for Java8 and functional programming]
+- gitsecrets
+- gitleaks
