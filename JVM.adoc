@@ -1,0 +1,10 @@
+= JVM
+
+== Gradle
+
+- https://github.com/platan/tests-execution-chart[GitHub - platan/tests-execution-chart: Gradle plugin that visualises tests execution schedule]
+- https://github.com/radarsh/gradle-test-logger-plugin[GitHub - radarsh/gradle-test-logger-plugin: A Gradle plugin for printing beautiful logs on the console while running tests]
+- https://github.com/coditory/gradle-integration-test-plugin[GitHub - coditory/gradle-integration-test-plugin: Gradle plugin with integrationTest task]
+- https://github.com/ben-manes/gradle-versions-plugin[GitHub - ben-manes/gradle-versions-plugin: Gradle plugin to discover dependency updates]
+- https://github.com/tbroyer/gradle-errorprone-plugin[GitHub - tbroyer/gradle-errorprone-plugin: Gradle plugin to use the error-prone compiler for Java]
+
