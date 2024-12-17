@@ -1,0 +1,61 @@
+= Rozwój
+:toc:
+:toclevels: 5
+:sectnums: all
+
+== CURRENT
+
+[cols="1,1,3"]
+|===
+|Theory/Practice|Subject|Name
+
+|Theory
+|Engineering
+|Enterprise Integration Patterns
+
+|Practice
+|Frontend
+|Crash Course Build a FullStack Web App in a Weekend
+
+|Practice
+|Engineering
+|IntelliJ Debugging
+
+|Practice
+|Cassandra
+|DS210: Operations for Apache Cassandra™
+
+|===
+
+Table with calculations:
+https://docs.google.com/spreadsheets/d/1MVrLqm8VqBUZQ8bdAi8C3_3AD7E7R2UPaDhPd_YDIqc/edit?pli=1#gid=0
+
+== ON HOLD
+
+[cols="1,1,2"]
+|===
+|Theory/Practice|Subject|Name
+
+|Theory
+|Engineering
+|Enterprise Integration Patterns
+
+|Practice
+|Frontend
+|Crash Course Build a FullStack Web App in a Weekend
+
+|Practice
+|Engineering
+|IntelliJ Debugging
+
+|Practice
+|Cassandra
+|DS210: Operations for Apache Cassandra™
+
+|===
+
+== NEXT
+
+- **AI** ❗
+
+Póki co skończ to co masz ON HOLD.
