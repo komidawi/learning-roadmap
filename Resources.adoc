@@ -1,6 +1,7 @@
 = Resources
 :toc:
 :toclevels: 5
+:sectnums:
 
 == Frontend
 

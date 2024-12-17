@@ -1,0 +1,66 @@
+= Randoms
+:sectnums:
+
+== High
+
+- https://medium.com/@jeff_long/when-and-why-to-use-graphql-24f6bce4839d[When and why to use GraphQL.. Design Patterns. Not another ‘How to’… | by Jeff Long | Medium]
+- https://existentialtype.wordpress.com/2011/03/15/boolean-blindness/[Boolean Blindness | Existential Type]
+- https://www.youtube.com/watch?v=2uEqYw-N8uE&si=juDeQeoKlTjcvVWP[Git's Best And Most Unknown Feature - YouTube]
+
+== Medium
+
+- https://martinfowler.com/bliki/ValueObject.html[Martin Fowler: ValueObject]
+- https://qntm.org/clean[It's probably time to stop recommending Clean Code @ Things Of Interest]
+- https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a[Mocking is a Code Smell. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium]
+- https://geek.justjoin.it/programisci-wypalenie-zawodowe/[83 proc. programistów cierpi na wypalenie zawodowe. Dlaczego? Just Geek IT]
+- https://www.buildthestage.com/the-daily-standup-is-a-waste-of-time/[The Daily Standup is a Waste of Time - Build the Stage]
+- https://jvns.ca/blog/things-your-manager-might-not-know/[Things your manager might not know]
+- https://martinfowler.com/bliki/TolerantReader.html
+- https://blog.allegro.tech/2023/02/onion-architecture.html[Onion Architecture · allegro.tech]
+- https://blog.allegro.tech/2023/03/neuroscience-for-software-engineers-motivation.html[How neuroscience can help you as a software engineer - motivation · allegro.tech]
+- https://www.purepc.pl/microsoft-powertoys-czyli-jak-zwiekszyc-swoja-efektywnosc-pracy-oraz-w-pelni-wykorzystac-mozliwosci-systemu-windows[Microsoft PowerToys - czyli jak zwiększyć swoją efektywność pracy oraz w pełni wykorzystać możliwości systemu Windows | PurePC.pl]
+- https://monzo.com/blog/2019/04/03/deploying-envoy-proxy[We deployed Envoy Proxy to make Monzo faster]
+- https://martinfowler.com/bliki/HumaneRegistry.html[HumaneRegistry]
+- https://www.youtube.com/watch?v=iKQhPwbzzxU[Google Cloud Spanner: Global consistency at scale by Robert Kubis - YouTube]
+- https://wykop.pl/link/7053049/chatgpt-z-pluginami-nowa-era-sztucznej-inteligencji-juz-tu[ChatGPT z pluginami - nowa era sztucznej inteligencji już tu!]
+- https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3[Netflix System Design- Backend Architecture - DEV Community]
+- https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext[Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM]
+- https://www.youtube.com/watch?v=O3PwuzCvAjI[How Discord Stores TRILLIONS of Messages - YouTube]
+- https://martinfowler.com/articles/feature-toggles.html[Feature Toggles (aka Feature Flags)]
+- https://www.youtube.com/watch?v=taiCYrNPbO0&t=4165s[PHPers Gdańsk #19 - YouTube - Konrad Otrębski - Fail Fast! Zacznij pisać kod, który nie posiada bugów]
+- https://www.youtube.com/watch?v=V4VZ4gWp2nM[TOC a DevOps. Jak dowozić więcej i szybciej w świecie IT? Konrad Otrębski - YouTube]
+- https://www.youtube.com/watch?v=YN45sJOzCA4[Pomóż zespołowi dowozić więcej i szybciej! Teoria Ograniczeń w praktyce - Konrad Otrębski - YouTube]
+- https://blog.allegro.tech/2023/07/save-money-on-large-database.html[From 3TB to 100GB: A Cost-Saving Journey in Database Maintenance · allegro.tech]
+- https://www.youtube.com/watch?v=ATZ0GEMSivM[WJUG #228 - Jakub Nabrdalik: User Stories considered harmful - YouTube]
+- https://www.youtube.com/watch?v=ZiOMQRujfMM[Victor Rentea — IntelliJ productivity tips — The secrets of the fastest developers on Earth - YouTube]
+- https://www.youtube.com/watch?v=wj7KEMEkMUE&feature=share[Best Practices Working with Billion-row Tables in Databases - YouTube]
+- https://blog.allegro.tech/2022/12/transactions-in-mongodb.html[Transactions in MongoDB · allegro.tech]
+- https://www.martinfowler.com/articles/evodb.html[Evolutionary Database Design]
+- https://typefully.com/uwteam/kKtvEx3[Jak niskim kosztem obsłużyć duży ruch webowy | Jakub Mrugalski 🔥]
+- https://blog.allegro.tech/2024/04/ten-years-microservices.html[Ten Years and Counting: My Affair with Microservices · allegro.tech]
+- https://www.youtube.com/watch?v=NUndgK7f1_Q[ATM 2021 - Kacper Koza: JetBrains IDE - beyond the shift-shift - YouTube]
+- https://dotclub.club/
+- https://www.youtube.com/watch?v=OAOQ7U0XAi0[The effect of Random UUID on database performance - YouTube]
+- https://www.youtube.com/watch?v=wsoOF8vNYf0[Wprowadzenie do Apache Kafka]
+- https://blog.allegro.tech/2023/09/online-mongodb-migration.html[Online MongoDB migration · allegro.tech]
+- https://victorrentea.ro/blog/overengineering-in-onion-hexagonal-architectures/[Overengineering in Onion/Hexagonal Architectures – Victor Rentea]
+- https://bottega.com.pl/pdf/materialy/jvm/jvm2.pdf[Co każdy programista Java powinien wiedzieć o JVM: zarządzanie pamięcią]
+- https://stackoverflow.com/questions/2292495/what-is-the-difference-between-a-cer-pvk-and-pfx-file/45886431#comment114002402_45886431[security - What is the difference between a cer, pvk, and pfx file? - Stack Overflow]
+- https://serverfault.com/questions/9708/what-is-a-pem-file-and-how-does-it-differ-from-other-openssl-generated-key-file[certificate - What is a Pem file and how does it differ from other OpenSSL Generated Key File Formats? - Server Fault]
+- https://docs.docker.com/develop/develop-images/dockerfile_best-practices/[Docker Building Best Practices]
+- https://www.youtube.com/watch?v=iixQAYnBnJw[Troubleshooting Memory Problems in Java Applications - YouTube]
+- https://www.youtube.com/watch?v=E2KYTXKUsT4[Solving Java Memory Leaks - YouTube]
+- https://blogs.oracle.com/javamagazine/post/the-best-hotspot-jvm-options-and-switches-for-java-11-through-java-17[The best HotSpot JVM options and switches for Java 11 through Java 17]
+- https://docs.oracle.com/en/java/javase/20/troubleshoot/command-line-options1.html#GUID-B5E16C7D-AE3C-40EB-A192-234C130766A6[JVM Command-Line Options]
+- https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jvm-options-java-parameters-command-line-environment-variable-list-xms-xmx-memory[Critical Java JVM options and parameters]
+- https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html#PerformanceTuning[Java HotSpot VM Options]
+
+== Low
+
+- https://sekurak.pl/czym-jest-oprogramowanie-szpiegowskie-pegasus-analiza-zagrozenia-oraz-metody-jego-wykrywania/[Czym jest oprogramowanie szpiegowskie Pegasus? Analiza zagrożenia oraz metody jego wykrywania]
+- https://sekurak.pl/dzialanie-algorytmu-sha256-wyjasnione-krok-po-kroku/[Działanie algorytmu sha256 wyjaśnione krok po kroku]
+- https://martinfowler.com/videos.html#intro-nosql[Introduction to NoSQL - Martin Fowler]
+- https://www.youtube.com/watch?v=BfHJo_aYj3g[JDD2015 - Twenty-one Years of Design Patterns (Ralph Johnson) - YouTube]
+- https://www.youtube.com/watch?v=8wHx31mvSLY[Everything I Ever Learned About JVM Performance Tuning at Twitter (Attila Szegedi, Hungary) - YouTube]
+- https://www.youtube.com/watch?v=ZiOMQRujfMM[Victor Rentea — IntelliJ productivity tips — The secrets of the fastest developers on Earth - YouTube]
+- https://www.linkedin.com/pulse/how-read-understand-g1gc-log-file-abhishek-sharma/[How to read and understand a G1GC log file]

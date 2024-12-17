@@ -1,4 +1,6 @@
 = Frontend
+:toc:
+:sectnums:
 
 == Frontend (general)
 
