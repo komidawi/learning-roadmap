@@ -1,0 +1,11 @@
+= Log
+
+* https://www.youtube.com/watch?v=_FTBiD4xOnY[Lesson154 - Is an ESB Still Relevant Today?]
+* https://www.ibm.com/topics/soa[What is service-oriented architecture (SOA)?]
+* https://www.ibm.com/think/topics/soa-vs-microservices[SOA versus microservices: What's the difference?]
+* https://www.youtube.com/watch?v=yoJkMDxnIqk[Enterprise Service Bus ESB Pattern - 345 Technology]
+* https://www.youtube.com/watch?v=19dszTKZ8Ps[ESB Explained in 3 minutes - Enterprise Service Bus - Connected Cookie]
+* https://www.youtube.com/watch?v=VHzWswQNtgk[Enterprise Service Bus - Loi Liang Yang]
+* https://www.youtube.com/watch?v=eVrgMZH2jNY[Enterprise Service Bus (ESB) - Nathan Kamas]
+* https://www.youtube.com/watch?v=7o_PgOQWqdY[What is the C4 model? - IcePanel]
+
