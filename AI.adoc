@@ -1,0 +1,123 @@
+= AI
+:sectnums:
+
+== Articles
+
+* https://www.reddit.com/r/ClaudeAI/comments/1fbp2a5/the_lazy_programmers_guide_to_ai_coding/[The lazy programmer's guide to AI coding]
+* https://www.reddit.com/r/LocalLLaMA/comments/1cvw3s5/my_personal_guide_for_developing_software_with_ai/[My personal guide for developing software with AI assistance]
+* https://www.reddit.com/r/learnprogramming/comments/13qrwa7/how_to_start_learning_to_code_with_ai_assisted/[How to start learning to code with AI assisted tools?]
+* https://www.reddit.com/r/webdev/comments/1fwpe9i/what_ai_tools_do_you_use_daily_for_your/[What AI tools do you use daily for your development?]
+* https://www.reddit.com/r/ChatGPTCoding/comments/1bxj1jz/my_experience_report_using_ai_to_code_from_an/[My Experience Report Using AI to Code — From An Older Programmer]
+* https://proxify.io/articles/how-i-use-ai-tools-in-my-daily-work-as-a-developer[Hire AI Developers in December 2024 - Proxify]
+* https://www.youtube.com/watch?v=izD_zWHa82Y[AI Tools I use every day as a Software Engineer - YouTube]
+* https://www.youtube.com/watch?v=2qU3SPPojDA[How to Build a NextJS MVP using v0, Claude, and Cursor - YouTube]
+
+== Coding Assistants
+
+=== Code Suggestion Tools
+
+(to guess fragments of code)
+
+* *GitHub Copilot*
+* Codeium
+* Tabnine
+** Could be more private?
+* Kite
+
+=== Code Generation Tools
+
+(to generates whole code by description)
+
+* Claude
+* *ChatGPT* (4 points)
+** No sources, hallucinations
+* Sourcegraph Cody
+** Can check entire codebase
+** Can answer questions about whole project
+** One said 1 year ago it worked not great.. how's now?
+
+=== Design to Code Conversion
+
+(e.g. Figma -> Code)
+
+- Visual CoPilot (Builder.io)
+
+=== Code Quality & Security
+
+- Snyk
+
+=== Code Collaboration
+
+* Pieces
+** Handle Snippets, tag, categorize
+* Otter AI Chat
+** Meeting summaries
+
+== IDEs
+
+* Cursor
+** VSCode with free plugins
+* Windsurf
+** Something different from every other solution
+
+== Other
+
+=== Research and Productivity
+
+* Devlo
+* Brave + Code LLM
+** AI powered code searches (e.g. how to do sth using found information)
+* *Poe*
+** Incorporates many AIs
+** Useful for research
+** Create own bots
+** Multibot chat
+** Shady..?
+* Elicit
+** AI Research Assistant
+** Ogarnia academic papers
+** Can provide answers or recommendations based on science literature
+* Mintlify
+** Documentation Creation
+* Codium
+** Created to test code
+** We can configure some testing suite and parameters
+** Really interesting tool !
+
+=== AI Platforms and Interfaces
+
+* https://get.big-agi.com/[big-AGI]
+* https://www.librechat.ai/[LibreChat]
+** Free
+** Only GPT?
+* HuggingFace
+** Free
+* You
+* Monica
+** one said it's scam
+* Merlin
+* Sider
+* Harpa
+* Perplexity
+* Scout
+* OpenRouter
+* Cassidy AI
+* TypingMind
+* abacus AI / ChatLLM
+** strange limits?...
+** very, very shady...
+* double.bot
+
+=== Other
+
+* https://docs.google.com/spreadsheets/d/1VEEehS7VYrvvn1cLEyE6R04ryD_QP2qjN7VQHKTFfNs/edit?gid=0#gid=0[ChatGPT-like OpenAI API interfaces]
+* https://harpa.ai/[HARPA AI | AI Agent for Your Browser]
+
+== Notes and Cautions
+
+[IMPORTANT]
+====
+* Check API costs for models
+* Verify tool reliability and privacy
+* Some tools may have questionable practices
+====
