@@ -1,35 +1,49 @@
 = Engineering
 :sectnums:
 
+== Top
+
+* *Designing Event-Driven Systems*
+** Seems like something highly relevant to today's problems with interesting scope of topics
+* *Designing Data Intensive Applications*
+** Seems like review of patterns related to data intensive systems
+* *Building Evolutionary Architectures*
+** Looks like something rather practical in terms of what to do with architecture
+
 == High
 
-- https://abseil.io/resources/swe-book[abseil / Software Engineering at Google]
-** PW strongly recommends
-- https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038252/[O'Reilly's Designing Event-Driven Systems]
-- The Software Engineer's Guidebook
-- Accelerate
-- Team Topologies
-** WP: _These two books are, in my opinion, the two most useful books on software development written in the last ten years, and I consider them essential reading whether you are into microservices or not._
-- The Software Architect Elevator
-- Building Evolutionary Architectures
+* *Software Engineering at Google*
+** Looks like broad yet shallow review of practices ought to be a standard nowadays
+** _PW strongly recommends this position_
+* *The Software Engineer's Guidebook*
+** Probably similarly broad yet shallow.
+Reportedly I know most of the things
+* WP: _These two books are, in my opinion, the two most useful books on software development written in the last ten years, and I consider them essential reading whether you are into microservices or not._
+** *Accelerate*
+*** Looks like organizational level management
+** *Team Topologies*
+*** Also looks like organizational level management with focus on teams
+* *Patterns of Enterprise Application Architecture*
+** Seems like review of patterns, however it's from 2002 so read it after getting known with modern approaches
+* *The Software Architect Elevator*
+** Seems like an exhaustive in-depth book more about how to *be* an architect (rather than what to do as an architect)
+* *Software Architecture for Developers*
+** Seems like a short introduction for Devs who want to do more than be CRUD monkeys
+** Author is creator of C4 model
 
 == Medium
 
-- Fowler - Patterns of Enterprise Application Architecture
-- Desgining Data Intenstive Applicatons
-- Pragmatic Programmer
 - Release It!
 - “The Pragmatic Programmer: journey to mastery, 20th Anniversary Edition” by David Thomas, Andrew Hunt
 - “Refactoring” Fowler
 - “Working with legacy code” Feathers
-- https://leanpub.com/software-architecture-for-developers[Software Architecture for… by Simon Brown [PDF/iPad/Kindle\]]
 - Enterprise Integration Patterns by Gregor Hohpe and Bobby Woolf (O'Reilly's recommendation)
 - REST in Practice by Jim Webber, Savas Parastatidis, Ian Robinson (O'Reilly's recommendation)
 - Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems
 
 == Low
 
-- https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692[Deep Work: Rules for Focused Success in a Distracted World: Newport, Cal: 9781455586691: Amazon.com: Books]
+- Deep Work: Rules for Focused Success in a Distracted World: Newport
 - Thinking Fast and Slow
 - Crucial Conversations: Tools for Talking When Stakes are High, Third Edition Kerry Patterson
 - NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence
