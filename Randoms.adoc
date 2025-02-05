@@ -1,14 +1,31 @@
 = Randoms
 :sectnums:
 
+== Top
+
+- https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying[The Log: What every software engineer should know about real-time data's unifying abstraction]
+- http://www.benstopford.com/2015/02/14/log-structured-merge-trees/[Log Structured Merge Trees]
+- https://martinfowler.com/articles/201701-event-driven.html
+- https://martinfowler.com/eaaDev/EventCollaboration.html
+- https://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data/
+- https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/
+
 == High
 
+- https://en.wikipedia.org/wiki/Staging_(data) - w odniesieniu do ETL
 - https://medium.com/@jeff_long/when-and-why-to-use-graphql-24f6bce4839d[When and why to use GraphQL.. Design Patterns. Not another ‘How to’… | by Jeff Long | Medium]
 - https://existentialtype.wordpress.com/2011/03/15/boolean-blindness/[Boolean Blindness | Existential Type]
 - https://www.youtube.com/watch?v=2uEqYw-N8uE&si=juDeQeoKlTjcvVWP[Git's Best And Most Unknown Feature - YouTube]
+- https://martinfowler.com/bliki/MemoryImage.html
+- https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
+- https://cloud.google.com/blog/products/databases/why-you-should-pick-strong-consistency-whenever-possible[Why you should pick strong consistency, whenever possible]
+- CRDT (Conflict-free replicated data type)
+- https://www.confluent.io/blog/transactions-apache-kafka/[Transactions in Apache Kafka]
+- Schema on Read vs Schema on Write
 
 == Medium
 
+- https://codescene.com/blog/software-revolution-part3/[Software (r)Evolution (Part 3) - You'll see how Temporal Coupling helps us design better software as we uncover expensive change patterns in our code.]
 - https://martinfowler.com/bliki/ValueObject.html[Martin Fowler: ValueObject]
 - https://qntm.org/clean[It's probably time to stop recommending Clean Code @ Things Of Interest]
 - https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a[Mocking is a Code Smell. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium]
@@ -16,6 +33,7 @@
 - https://www.buildthestage.com/the-daily-standup-is-a-waste-of-time/[The Daily Standup is a Waste of Time - Build the Stage]
 - https://jvns.ca/blog/things-your-manager-might-not-know/[Things your manager might not know]
 - https://martinfowler.com/bliki/TolerantReader.html
+- https://www.infoq.com/news/2017/04/tornhill-prioritise-tech-debt/[A Crystal Ball to Prioritise Technical Debt in Monoliths or Microservices: Adam Tornhill's Thoughts]
 - https://blog.allegro.tech/2023/02/onion-architecture.html[Onion Architecture · allegro.tech]
 - https://blog.allegro.tech/2023/03/neuroscience-for-software-engineers-motivation.html[How neuroscience can help you as a software engineer - motivation · allegro.tech]
 - https://www.purepc.pl/microsoft-powertoys-czyli-jak-zwiekszyc-swoja-efektywnosc-pracy-oraz-w-pelni-wykorzystac-mozliwosci-systemu-windows[Microsoft PowerToys - czyli jak zwiększyć swoją efektywność pracy oraz w pełni wykorzystać możliwości systemu Windows | PurePC.pl]
@@ -54,6 +72,13 @@
 - https://docs.oracle.com/en/java/javase/20/troubleshoot/command-line-options1.html#GUID-B5E16C7D-AE3C-40EB-A192-234C130766A6[JVM Command-Line Options]
 - https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jvm-options-java-parameters-command-line-environment-variable-list-xms-xmx-memory[Critical Java JVM options and parameters]
 - https://www.oracle.com/java/technologies/javase/vmoptions-jsp.html#PerformanceTuning[Java HotSpot VM Options]
+- https://queue.acm.org/detail.cfm?id=3096459[The Calculus of Service Availability]
+- https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell
+- https://medium.com/expedia-group-tech/business-events-in-a-world-of-independently-deployable-services-144daf6caa1a
+- https://www.thoughtworks.com/insights/blog/customer-experience/inverse-conway-maneuver-product-development-teams
+- https://www.cidrdb.org/cidr2005/papers/P12.pdf[Data on the Outside versus Data on the Inside]
+- https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/[Turning the database inside-out with Apache Samza]
+- https://blog.acolyer.org/2015/04/22/distributed-snapshots-determining-global-states-of-distributed-systems/[Distributed Snapshots: Determining Global States of Distributed Systems]
 
 == Low
 

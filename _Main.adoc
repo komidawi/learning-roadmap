@@ -3,11 +3,51 @@
 :toclevels: 5
 :sectnums: all
 
-== CURRENT
+
+== OBJECTIVES
+
+[discrete]
+=== CURRENT MAIN OBJECTIVE
+
+[discrete]
+==== LEARN AI TOOLS
+
+- Research available tools
+- Learn basics and choose tools that really help
+- Gain proficiency with these tools
+
+[discrete]
+=== CURRENT SECONDARY OBJECTIVE
+
+[discrete]
+==== NONE
+
+- Focus fully on Main Objective.
+
+== CURRENT DASHBOARD
 
 [cols="2,2,6,2"]
 |===
 |Theory/Practice|Subject|Name|Progress
+
+|Practice|AI|*Learn AI tools*|1%
+|===
+
+== ON HOLD
+
+[cols="2,2,6,2"]
+|===
+|Theory/Practice|Subject|Name|Progress
+
+|Theory
+|Engineering
+|Designing Event-Driven Systems
+|92/166 (55%)
+
+|Theory
+|Engineering
+|Designing Event-Driven Systems - reprocessed
+|1/166 (1%)
 
 |Practice
 |Frontend
@@ -24,41 +64,29 @@
 |Building Microservices: Designing Fine-Grained Systems - second pass
 |507/588 (85%)
 
-|===
-
-Table with calculations:
-https://docs.google.com/spreadsheets/d/1MVrLqm8VqBUZQ8bdAi8C3_3AD7E7R2UPaDhPd_YDIqc/edit?pli=1#gid=0
-
-== ON HOLD
-
-[cols="1,1,2"]
-|===
-|Theory/Practice|Subject|Name
-
 |Theory
 |Engineering
 |Enterprise Integration Patterns
+|
 
 |Practice
 |Frontend
 |Crash Course Build a FullStack Web App in a Weekend
+|
 
 |Practice
 |Engineering
 |IntelliJ Debugging
+|
 
 |Practice
 |Cassandra
 |DS210: Operations for Apache Cassandra™
+|
 
 |Practice
 |Frontend
 |Crash Course Build a FullStack Web App in a Weekend
+|
 
 |===
-
-== NEXT
-
-- **AI** ❗
-
-Póki co skończ to co masz ON HOLD.
