@@ -1,7 +1,15 @@
 = AI
 :sectnums:
 
-== Articles
+== WORK
+
+=== In Progress
+
+- https://www.youtube.com/watch?v=izD_zWHa82Y
+
+== INPUT STREAM
+
+=== Articles
 
 * https://www.reddit.com/r/ClaudeAI/comments/1fbp2a5/the_lazy_programmers_guide_to_ai_coding/[The lazy programmer's guide to AI coding]
 * https://www.reddit.com/r/LocalLLaMA/comments/1cvw3s5/my_personal_guide_for_developing_software_with_ai/[My personal guide for developing software with AI assistance]
@@ -12,9 +20,9 @@
 * https://www.youtube.com/watch?v=izD_zWHa82Y[AI Tools I use every day as a Software Engineer - YouTube]
 * https://www.youtube.com/watch?v=2qU3SPPojDA[How to Build a NextJS MVP using v0, Claude, and Cursor - YouTube]
 
-== Coding Assistants
+=== Coding Assistants
 
-=== Code Suggestion Tools
+==== Code Suggestion Tools
 
 (to guess fragments of code)
 
@@ -24,7 +32,7 @@
 ** Could be more private?
 * Kite
 
-=== Code Generation Tools
+==== Code Generation Tools
 
 (to generates whole code by description)
 
@@ -36,33 +44,33 @@
 ** Can answer questions about whole project
 ** One said 1 year ago it worked not great.. how's now?
 
-=== Design to Code Conversion
+==== Design to Code Conversion
 
 (e.g. Figma -> Code)
 
 - Visual CoPilot (Builder.io)
 
-=== Code Quality & Security
+==== Code Quality & Security
 
 - Snyk
 
-=== Code Collaboration
+==== Code Collaboration
 
 * Pieces
 ** Handle Snippets, tag, categorize
 * Otter AI Chat
 ** Meeting summaries
 
-== IDEs
+=== IDEs
 
 * Cursor
 ** VSCode with free plugins
 * Windsurf
 ** Something different from every other solution
 
-== Other
+=== Other
 
-=== Research and Productivity
+==== Research and Productivity
 
 * Devlo
 * Brave + Code LLM
@@ -84,7 +92,7 @@
 ** We can configure some testing suite and parameters
 ** Really interesting tool !
 
-=== AI Platforms and Interfaces
+==== AI Platforms and Interfaces
 
 * https://get.big-agi.com/[big-AGI]
 * https://www.librechat.ai/[LibreChat]
@@ -108,12 +116,12 @@
 ** very, very shady...
 * double.bot
 
-=== Other
+==== Other
 
 * https://docs.google.com/spreadsheets/d/1VEEehS7VYrvvn1cLEyE6R04ryD_QP2qjN7VQHKTFfNs/edit?gid=0#gid=0[ChatGPT-like OpenAI API interfaces]
 * https://harpa.ai/[HARPA AI | AI Agent for Your Browser]
 
-== Notes and Cautions
+=== Notes and Cautions
 
 [IMPORTANT]
 ====

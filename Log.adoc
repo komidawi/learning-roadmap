@@ -1,6 +1,7 @@
 = Log
 
 [%reversed]
+. https://www.youtube.com/watch?v=izD_zWHa82Y[AI Tools I use every day as a Software Engineer]
 . https://www.youtube.com/watch?v=_FTBiD4xOnY[Lesson154 - Is an ESB Still Relevant Today?]
 . https://www.ibm.com/topics/soa[What is service-oriented architecture (SOA)?]
 . https://www.ibm.com/think/topics/soa-vs-microservices[SOA versus microservices: What's the difference?]
@@ -18,4 +19,4 @@
 . https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/[20 Things I've Learned in my 20 Years as a Software Engineer - Simple Thread]
 . https://www.youtube.com/watch?v=toqfiv4o7jA[bITconf 2019 - \[Jakub Pilimon\] REFACTOR AND DO IT SAFELY - poprawiony dźwięk - YouTube]
 . https://www.youtube.com/watch?v=enfBJqz1LtA[Konrad Otrębski, Dawid Widyna - CI: jak dostarczać więcej i szybciej bez branchy i GitFlow! - YouTube]
-. https://www.youtube.com/watch?v=ZZ1qu_qrSWw[Boiling Frogs 2019 - Piotr Kubowicz - Problem sprytnego programisty - YouTube] 
+. https://www.youtube.com/watch?v=ZZ1qu_qrSWw[Boiling Frogs 2019 - Piotr Kubowicz - Problem sprytnego programisty - YouTube]
