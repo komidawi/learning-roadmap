@@ -30,13 +30,13 @@ Reportedly I know most of the things
 * *Software Architecture for Developers*
 ** Seems like a short introduction for Devs who want to do more than be CRUD monkeys
 ** Author is creator of C4 model
+* *“Working with legacy code” Feathers*
 
 == Medium
 
 - Release It!
 - “The Pragmatic Programmer: journey to mastery, 20th Anniversary Edition” by David Thomas, Andrew Hunt
 - “Refactoring” Fowler
-- “Working with legacy code” Feathers
 - Enterprise Integration Patterns by Gregor Hohpe and Bobby Woolf (O'Reilly's recommendation)
 - REST in Practice by Jim Webber, Savas Parastatidis, Ian Robinson (O'Reilly's recommendation)
 - Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems
