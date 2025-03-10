@@ -79,7 +79,8 @@
 - https://www.cidrdb.org/cidr2005/papers/P12.pdf[Data on the Outside versus Data on the Inside]
 - https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/[Turning the database inside-out with Apache Samza]
 - https://blog.acolyer.org/2015/04/22/distributed-snapshots-determining-global-states-of-distributed-systems/[Distributed Snapshots: Determining Global States of Distributed Systems]
-- https://developer.squareup.com/blog/the-road-to-an-envoy-service-mesh/
+- https://developer.squareup.com/blog/the-road-to-an-envoy-service-mesh/[The Road to an Envoy Service Mesh]
+- https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/[Make Large Scale Changes Incrementally with Branch By Abstraction
 
 == Low
 
