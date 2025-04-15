@@ -92,3 +92,4 @@
 - https://www.youtube.com/watch?v=8wHx31mvSLY[Everything I Ever Learned About JVM Performance Tuning at Twitter (Attila Szegedi, Hungary) - YouTube]
 - https://www.youtube.com/watch?v=ZiOMQRujfMM[Victor Rentea — IntelliJ productivity tips — The secrets of the fastest developers on Earth - YouTube]
 - https://www.linkedin.com/pulse/how-read-understand-g1gc-log-file-abhishek-sharma/[How to read and understand a G1GC log file]
+- https://github.com/github/scientist[Scientist! - A Ruby library for carefully refactoring critical paths.]

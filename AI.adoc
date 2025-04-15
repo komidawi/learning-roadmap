@@ -9,6 +9,11 @@
 
 == INPUT STREAM
 
+=== Videos
+
+* https://www.youtube.com/watch?v=7xTGNNLPyMI[Deep Dive into LLMs like ChatGPT]
+** Comprehensive, 3 hours long, exhaustive lesson about LLMs under the hood
+
 === Articles
 
 * https://www.reddit.com/r/ClaudeAI/comments/1fbp2a5/the_lazy_programmers_guide_to_ai_coding/[The lazy programmer's guide to AI coding]
