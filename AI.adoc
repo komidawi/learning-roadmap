@@ -24,6 +24,8 @@
 * https://proxify.io/articles/how-i-use-ai-tools-in-my-daily-work-as-a-developer[Hire AI Developers in December 2024 - Proxify]
 * https://www.youtube.com/watch?v=izD_zWHa82Y[AI Tools I use every day as a Software Engineer - YouTube]
 * https://www.youtube.com/watch?v=2qU3SPPojDA[How to Build a NextJS MVP using v0, Claude, and Cursor - YouTube]
+* https://www.anthropic.com/news/mapping-mind-language-model[Mapping the Mind of a Large Language Model]
+** This article should help understand LLMs more
 
 === Coding Assistants
 
